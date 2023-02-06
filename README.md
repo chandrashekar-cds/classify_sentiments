@@ -1,2 +1,2 @@
-# classify_sentiments
-a public repo for sentiment classification
+# sentiment_classifier
+Classifies the sentiment of a review to be positive or negative
